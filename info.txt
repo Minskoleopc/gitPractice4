@@ -8,3 +8,7 @@ git status
 git diff 
 git log - all commits 
 git show HEAD -- latest commits
+
+git branch branch_name
+
+git checkout login_feature
